@@ -1,7 +1,7 @@
 # Pilot: Publishing Interface for Literary Objects in TEI 
 
 ## Basic Overview
-Pilot is a Node.js web app that utilizes CETEIcean javascript library to create a customizable digital publication tool that easily displays large amounts of TEI files in the browser with minimal code.
+Pilot is a Node.js web app that utilizes the CETEIcean javascript library to create a customizable digital publication tool that easily displays large amounts of TEI files in the browser with minimal code.
 
 ## In-Depth Description
 Pilot is built within node.js and uses the express web application framework alongside the liquidjs module for Liquid template language. The basic purpose of Pilot is to use templating to allow users to generate many webpages featuring their TEI digital editions with as little code as possible. Pilot uses Liquid to create a single template page for displaying TEI files which you can then plug many TEI files into and automatically generate a new page for each one.
