@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogue and History of English Criminal Legislation: Letter to Ogilvie from
+               Arnold D. McNair, October 15th, 1943.</title>
+            <editor/>
+            <principal/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Florida State University, Office of Digital Research and
+               Scholarship</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/2.0/">Attribution 2.0
+                  Generic (CC BY 2.0)</licence>
+            </availability>
+            <date when="####-##-##"/>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+               <p><!--Notes on the text, including extra information on sources, anomalies, etc.--></p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <placeName>Tallahassee, Florida</placeName>
+                  <institution>Florida State University</institution>
+                  <collection>Pine Hill Plantation Papers, 1832-1926.</collection>
+                  <idno type="IID">FSU_MSS_20130729_B17_F10_02</idno>
+                  <idno type="PID">fsu:559928</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title>Catalogue and History of English Criminal Legislation: Letter to Ogilvie
+                        from Arnold D. McNair, October 15th, 1943.</title>
+                     <author>McNair, Arnold Duncan, Baron, 1885-1975</author>
+                     <docDate when="1943-10-15"/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded from a digitized version in FSU's Digital Library:
+                  <ref>http://diginole.lib.fsu.edu/islandora/object/fsu:559928</ref>.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Arnold McNair</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Sir F.W. Ogilvie</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="pointer2taxonomyfile.xml">
+               <term>Criminology -- History</term>
+               <term>World War, 1939-1945</term>
+               <term>War crimes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <dateline>University of Liverpool
+            <lb/>October 15th, 1943</dateline>
+         <head>Catalogue and History of English Criminal Legislation</head>
+         <opener><salute>Dear Ogilvie,</salute></opener>
+         <p>Friends of mine in the Faculty of Law at Cambridge tell me that they are in touch with
+            the British Council in the matter of a request for an increase in financial help for the
+            purpose of financing a projected “Catalogue and History of English Criminal
+            Legislation”. As I have seen <orig>someting</orig> of those who are
+               <orig>easponsible</orig> for the Department of Criminal Science at Cambridge in
+            connection with another matter that I shall mention, and as I know Dr. Radzinowicz, who
+            is in charge of the project, may I send you a few words upon the
+            <orig>metter</orig>?</p>
+         <p>As you probably know, Comparative Law, which is a short title for the Comparative Study
+            of Law, is a <orig>mewcomer</orig> in England and is only just beginning to receive
+            serious attention. There is a part-time Chair in the University of London, the Quain
+            Chair of Comparitive Law, and until twelve months ago Professer Gutteridge of Cambridge
+            held a purely personal Chair in Comparative Law. There is also a journal of Comparative
+            Law of long standing. On the other hand, in many foreign European countries this subject
+            has for a long time received serious attention, and English lawyers have frequently been
+            surprised by the keen interest shown by foreign lawyers in our legal institutions and by
+            their knowledge of them. One practical application of this branch of legal study
+            consists of the movement for the Unification of Private law for which purpose the
+            British Government has participated in a number of international conferences in the last
+            two decades.</p>
+         <p>I know Dr Radzinowics and have read some of his preliminary explorations of the field
+            which he now proposes to investigate, and I have been well impressed by the patient and
+            deliberate manner in which he has matured his plans and the obviously
+               <orig>exhanstive</orig> character of the undertaking which he proposes. It is clear
+            that he is not anxious to get quick results, but has marked out a <orig>programme</orig>
+            which will occupy the best years of his life, and may be expected to result in a
+            scholarly production. I have every reason to think that his work, when completed, will
+            bring substantial credit to this country by facilitating the study of our criminal
+            system by foreign lawyers and penologists, and will also fill what is at present a
+            serious gap in the history of our legal institutions. </p>
+         <p>The other matter to which I <orig>regerred</orig> is an organization connected with the
+            Department of Criminal Science at Cambridge and in which Dr Radzinowicz takes a
+            prominent part, that is, the International Commission for Penal Reconstruction and
+            Development, and it is in this connection that I first met him. One of its recent
+            activities has been the consideration of the means of punishing War Criminals, and the
+            Committee established for that purpose, of which I was Chairman, comprised unofficial
+            representatives of all the United Nations except Russia and <orig>Chine</orig> - they
+            were unofficial but in fact most of them were officials of their respective Governments.
+            I felt at the time that this contact between the lawyers of the United Nations was a
+            valuable one from a general political point of view because the legal exiles in this
+            country were very keen upon tackling this problem, and the International Commission
+            referred was able to supply that machinery and bring us all into close contact. I merely
+            mention this as one of the cultural international by-products of the Department of
+            Criminal Science at Cambridge with which Dr Radzinowicz is so closely identified.</p>
+         <p>I know that the British Council has a strong Law Advisory Committee who will be able to
+            express an expert opinion on this matter, but as I have had this recent contact with Dr
+            Radzinowicz and his Cambridge friends I felt that I might venture to convey my
+            impressions to you.</p>
+         <closer>Yours Sincerely
+         <signed>ARNOLD D. McNAIR</signed>
+         </closer>
+         
+         <note type="transcribed">Sir F.W.Ogilvie, LL.D.</note>
+      </body>
+   </text>
+</TEI>

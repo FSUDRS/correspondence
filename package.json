@@ -1,0 +1,34 @@
+{
+  "name": "Pilot",
+  "version": "1.0.0",
+  "description": "Web app using CETEIcean and liquid templating to create an easy to use interface for presenting digital editions",
+  "main": "server.js",
+  "keywords": [],
+  "author": "Suzanne Raybuck",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sraybuck/CETEIcean-prototype.git"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "http-server": "^0.12.1",
+    "onchange": "^6.0.0",
+    "rollup": "0.62.0",
+    "rollup-plugin-babel": "^3.0.3",
+    "rollup-plugin-node-builtins": "^2.1.2",
+    "rollup-plugin-terser": "1.0.1",
+    "terser": "^3.17.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "elasticlunr": "^0.9.5",
+    "express": "^4.17.1",
+    "liquidjs": "^9.1.1",
+    "xml2js": "^0.4.23",
+    "xmldom": "^0.3.0"
+  }
+}

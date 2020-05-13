@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Angus Paterson to Mrs. N. W. Eppes, Aug. 27th, 1904</title>
+            <!-- INCLUDE (as editor) -->
+            <editor><!-- Name of Editor --></editor>
+            <principal><!-- Name of Principal Investigator --></principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Florida State University, Office of Digital Research and Scholarship</publisher>
+            <availability>
+               <!-- INCLUDE (as copyright/license) -->
+               <licence target="https://creativecommons.org/licenses/by/2.0/">Attribution 2.0 Generic (CC BY 2.0)</licence>
+            </availability>
+            <!-- INCLUDE (as pubdate; @when) -->
+            <date when="####-##-##"/> <!-- This will be updated upon first "publication" -->
+         </publicationStmt>
+         <!-- INCLUDE as (ednote) -->
+         <notesStmt>
+            <note><p>Notes on the text, including extra information on sources, anomalies, etc.</p></note> <!-- for editorial notes -->
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <!-- For article-level information -->
+                  <!-- INCLUDE (as author) -->
+                  <author>Author of short work</author>
+                  <!-- INCLUDE (as title) -->
+                  <title>Title of Short Work</title>
+               </analytic>
+               <monogr>
+                  <!-- For monograph-level information -->
+                  <!-- INCLUDE (as author) -->
+                  <author>Author of larger work (e.g. poetry collection)</author>
+                  <!-- INCLUDE (as title) -->
+                  <title>Title of larger work (e.g. poetry collection)</title>
+                  <imprint>
+                     <pubPlace>Place of publication of source</pubPlace>
+                     <publisher>Name of publisher of source</publisher>
+                     <!-- Date of publication of source -->
+                     <!-- INCLUDE (as docdate; @when) -->
+                     <date when="2004-02-28"/>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded from a digitized version in FSU's Digital Library: <ref>http://diginole.lib.fsu.edu/islandora/object/fsu:369556</ref>.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <!-- INCLUDE (as sender) -->
+               <persName>Name of sender</persName>
+            </correspAction>
+            <!-- INCLUDE (as recipient) -->
+            <correspAction type="received">
+               <persName>Name of recipient</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="pointer2taxonomyfile.xml">
+               <!-- INCLUDE (as subjects; this may be tricky because this needs to be repeatable) -->
+               <term>subject 1</term>
+               <term>subject 2</term>
+               <term>subject 3</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>

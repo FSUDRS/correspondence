@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>“P.S.” regarding genealogy</title>
+            <editor/>
+            <principal/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Florida State University, Office of Digital Research and Scholarship</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/2.0/">Attribution 2.0 Generic (CC BY 2.0)</licence>
+            </availability>
+            <date when="####-##-##"/>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+               <p><!--Notes on the text, including extra information on sources, anomalies, etc.--></p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <placeName>Tallahassee, Florida</placeName>
+                  <institution>Florida State University</institution>
+                  <collection>Pine Hill Plantation Papers, 1832-1926.</collection>
+                  <idno type="IID">FSU_MSS0204_B02_F15_17</idno>
+                  <idno type="PID">fsu:371072</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title>“P.S.” regarding genealogy</title>
+                     <author>unknown</author>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded from a digitized version in FSU's Digital Library: <ref>http://diginole.lib.fsu.edu/islandora/object/fsu:371072</ref>.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="pointer2taxonomyfile.xml">
+               <term>Families</term>
+               <term>Plantations -- Florida</term>
+               <term>Plantation owners -- Florida -- Leon County</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p></p>
+         <postscript><label>P.S</label>
+         <p>I wrote to <unclear cert="low">Chrissie Valie Eppes </unclear>that <unclear cert="low">where in of this</unclear> genealogy finished or should be able to get all the Eppes to become members: that so far your family was the  only one that had come in with the exception of scattered individuals—</p>
+         <p>The news of the hurricane in Fla. is quite appalling—I hope that you and all your family are safe and <unclear cert="medium">suffer</unclear> no loss—</p></postscript>
+      </body>
+   </text>
+</TEI>

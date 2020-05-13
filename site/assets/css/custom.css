@@ -1,0 +1,143 @@
+/*CETEIcean output styling*/
+tei-hyperdiv {
+  display: none;
+}
+tei-teiheader {
+  display: none;
+}
+tei-cb {
+  display: none;
+}
+tei-lb{
+  display: none;
+}
+tei-head {
+  font-size: 2em;
+}
+tei-figdesc {
+  display: none;
+}
+tei-stage{
+  font-size: 1em;
+  text-decoration: underline;
+}
+tei-fw{
+  display: none;
+}
+tei-div > tei-head{
+  text-indent: 0em;
+}
+tei-label{
+  display: none;
+}
+#TEI {
+  padding: 2em 1em 2em 1em;
+}
+/*general styles*/
+html {
+  margin: 0px;
+  height: 100%;
+  padding: 0px;
+  font-family: 'Lato', sans-serif;
+  /*the reason this is set to hidden is because theres jQuery that makes the display 
+  jump around a little while the page is loading. This CSS hides the content until jQuery
+  tells it to un-hide it when every thing has loaded properly*/
+  visibility: hidden;
+}
+body {
+  margin: 0px;
+  width: 100%;
+}
+.container {
+  width: 80%;
+  height: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+h1{
+  margin: 0px;
+  padding: .5em 0em .5em 0em;
+}
+
+/*Nav bar styling*/
+#navbg{
+  background-color: #ff9900;
+}
+ul.nav{
+  list-style-type: none;
+  margin-bottom: 1em;
+  margin: auto;
+  width: 100%;
+  padding: 0em;
+  overflow: hidden;
+  background-color:#ff9900;
+}
+ul.nav li {
+  float: left;
+}
+ul.nav li#headline{
+  text-align: center;
+  padding: 1em 2em 1em 0em;
+}
+ul.nav li a {
+  display: block;
+  color: 	#383838;
+  text-align: center;
+  padding: 1em 2em;
+  text-decoration: none;
+}
+
+ul.nav li a:hover:not(.active) {
+  background-color: #ffc266;
+}
+
+ul.nav li a.active {
+  color: 	#383838;
+  background-color: #ff9900;
+}
+/*Annotation styling*/
+#annotation{
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  color: #F27405;
+}
+
+/*Search bar styling*/
+input {
+  border-radius: .2em;
+  font-family: inherit;
+  font-size: 1.25em;
+  padding: 0.5em;
+  margin: .7em 0em .7em 0em;
+  width: 90%;
+}
+.result li{
+  list-style: none;
+}
+.results{
+  line-height: 1.2em;
+}
+.result p{
+  margin: 0px;
+}
+/*Footer styles*/
+#footer{
+  background-color: #ff9900;
+}
+
+/*toc table styles*/
+table {
+  border-collapse: collapse;
+  border: none;
+}
+td {
+  /*border: 1px solid black;*/
+  padding: .7em .7em;
+  font-size: 1.3em;
+  text-align: center;
+}
+th {
+  background-color: #ffc266;
+  cursor: pointer;
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Angus Paterson to Mrs. N. W. Eppes, Aug. 27th, 1904</title>
+            <editor/>
+            <principal/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Florida State University, Office of Digital Research and
+               Scholarship</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/2.0/">Attribution 2.0
+                  Generic (CC BY 2.0)</licence>
+            </availability>
+            <date when="####-##-##"/>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+               <p><!--Notes on the text, including extra information on sources, anomalies, etc.--></p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <placeName>Tallahassee, Florida</placeName>
+                  <institution>Florida State University</institution>
+                  <collection>Pine Hill Plantation Papers, 1832-1926.</collection>
+                  <idno type="IID">FSU_MSS0204_B01_F01_09</idno>
+                  <idno type="PID">fsu:369556</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title>Letter from Angus Paterson to Mrs. N. W. Eppes, Aug. 27th, 1904</title>
+                     <author>Angus Paterson</author>
+                     <docDate when="1904-08-27"/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded from a digitized version in FSU's Digital Library:
+                  <ref>http://diginole.lib.fsu.edu/islandora/object/fsu:369556</ref>.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="prosopography.xml#paterson">Angus Paterson</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>N.W. Eppes</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="pointer2taxonomyfile.xml">
+               <term>Bradford family</term>
+               <term>Plantation owners -- Florida -- Leon County</term>
+               <term>Genealogy</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <opener>
+            <dateline>Madison Fla. Aug 27th 1904 <lb/>Mrs. N.W. Eppes <lb/>Bradfordvile Fla. </dateline>
+            <salute>Dear Madam</salute>
+         </opener>
+         <p>Your letter of the 24th Aust. Requesting the return of the genealogy given me by Mr.
+            John A Pearce has been received.</p>
+         <p>I have two copies of the geneaogy, and herewith return them both. I have not been able
+            to find anything tangible in the case, and have not been to <unclear cert="low">Europe</unclear> since I saw you in Tallahassee, I have had some correspondence, but
+            have learned nothing by them.</p>
+         <p>I was in Tallahassee in May last, but did not have time to go into the <unclear
+               cert="medium">country</unclear>, I went on Saturday and returned on Monday, and did
+            not converse with any of the parties about the estate matter. Hoping that you may find
+            these papers to be what you want, and that I may at some future time see you and Mr.
+            Eppes at your Home. </p>
+         <closer>I am
+            <lb/>Yours Respectfully
+            <signed>Angus Paterson </signed>
+         </closer>
+      </body>
+   </text>
+</TEI>

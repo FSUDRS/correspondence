@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter to A.D. McNair 14th April, 1943</title>
+            <editor/>
+            <principal/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Florida State University, Office of Digital Research and
+               Scholarship</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/2.0/">Attribution 2.0
+                  Generic (CC BY 2.0)</licence>
+            </availability>
+            <date when="####-##-##"/>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+               <p><!--Notes on the text, including extra information on sources, anomalies, etc.--></p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <placeName>Tallahassee, Florida</placeName>
+                  <institution>Florida State University</institution>
+                  <collection>Pine Hill Plantation Papers, 1832-1926.</collection>
+                  <idno type="IID">FSU_MSS_20130729_B1_F6_09_01</idno>
+                  <idno type="PID">fsu:558290</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title>Letter to A.D. McNair 14th April, 1943</title>
+                     <author/>
+                     <docDate when="1943-04-14"/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded from a digitized version in FSU's Digital Library:
+                  <ref>http://diginole.lib.fsu.edu/islandora/object/fsu:558290</ref>.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="received">
+               <persName>A.D. McNair</persName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+            <keywords scheme="pointer2taxonomyfile.xml">
+               <term>Criminology -- History</term>
+               <term>War crimes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <dateline>14th April, 1943.</dateline>
+         <salute>Dear McNair, </salute>
+         <p>I enclose the papers on the Superior Orders Defence which de Moor has from time to
+            time sent to me. I have shown them to Lauterpacht on each occasion and we agreed to hold
+            them, in the hope that de Moor would provide a comprehensive report, covering all the
+            material. But he now asks me to let you have everything, so I fear that he is not able
+            to do this at present. When you have finished with them, will you please return them, as
+            I think it will be necessary to have them duplicated in due course. </p>
+         <closer>Yours sincerely, 
+            <signed>Dr. A.D. McNair, Vice-Chancellor,University of Liverpool.</signed>
+         </closer>
+         <note>Sub-Committee on the Defence of Superior Orders. Replies to the questionnaire: 
+         <lb/>Belgium
+         <lb/>Great Britain
+         <lb/>Czechoslovakia
+         <lb/>Greece
+         <lb/>Netherlands
+         <lb/>Poland
+         <lb/>U.S.A.
+         </note>
+         <note>Sent to Dr. McNair on 14th April, 1943 with an Appendix to Belgium</note>
+      </body>
+   </text>
+</TEI>
