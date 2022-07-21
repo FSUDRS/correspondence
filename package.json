@@ -19,7 +19,7 @@
     "rollup-plugin-babel": "^3.0.3",
     "rollup-plugin-node-builtins": "^2.1.2",
     "rollup-plugin-terser": "1.0.1",
-    "terser": "^3.17.0"
+    "terser": "^4.8.1"
   },
   "scripts": {
     "start": "node server.js"
