@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "elasticlunr": "^0.9.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "liquidjs": "^9.1.1",
     "xml2js": "^0.4.23",
     "xmldom": "^0.3.0"
